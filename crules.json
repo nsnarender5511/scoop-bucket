@@ -6,14 +6,14 @@
             "bin": [
                 "crules.exe"
             ],
-            "hash": "8e2a200aae95eace0cdf529af69e21683d742a37fb0bab81fb4f564e2897ca97"
+            "hash": "f89d9e4ec39e38c612921337eeb5e75158e31872b2abdd793b425d9e9ec5304c"
         },
         "arm64": {
             "url": "https://github.com/nsnarender5511/crules/releases/download/v0.0.1/crules_windows_arm64.tar.gz",
             "bin": [
                 "crules.exe"
             ],
-            "hash": "3e42f0b30d9f6729d6a47bf74681633ff0fd4d640230e4c00211e48993fc63b2"
+            "hash": "2bae4774746df12d01965adf63bcdb3915cb8b0b80f2845044987b7ec7fba002"
         }
     },
     "homepage": "https://github.com/nsnarender5511/crules",
