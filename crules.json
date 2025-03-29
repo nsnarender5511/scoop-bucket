@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nsnarender5511/crules/releases/download/v0.0.1/crules_windows_amd64.tar.gz",
+            "bin": [
+                "crules.exe"
+            ],
+            "hash": "8e2a200aae95eace0cdf529af69e21683d742a37fb0bab81fb4f564e2897ca97"
+        },
+        "arm64": {
+            "url": "https://github.com/nsnarender5511/crules/releases/download/v0.0.1/crules_windows_arm64.tar.gz",
+            "bin": [
+                "crules.exe"
+            ],
+            "hash": "3e42f0b30d9f6729d6a47bf74681633ff0fd4d640230e4c00211e48993fc63b2"
+        }
+    },
+    "homepage": "https://github.com/nsnarender5511/crules",
+    "license": "MIT",
+    "description": "A tool for managing and synchronizing Cursor rules across multiple projects"
+}
