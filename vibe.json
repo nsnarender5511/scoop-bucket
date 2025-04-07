@@ -1,0 +1,22 @@
+{
+    "version": "0.0.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/nsnarender5511/vibe/releases/download/v0.0.3/vibe_windows_amd64.tar.gz",
+            "bin": [
+                "vibe.exe"
+            ],
+            "hash": "3c14b9cc0ceabef840972682d8a7da4aaf01542feecc5aff6756d70905293ee2"
+        },
+        "arm64": {
+            "url": "https://github.com/nsnarender5511/vibe/releases/download/v0.0.3/vibe_windows_arm64.tar.gz",
+            "bin": [
+                "vibe.exe"
+            ],
+            "hash": "e4c71fd9033f57b716244a73be1e38a29959d2c68e2b705b6f8e8e9d89a0a6b2"
+        }
+    },
+    "homepage": "https://github.com/nsnarender5511/vibe",
+    "license": "MIT",
+    "description": "A tool for managing and synchronizing Cursor rules across multiple projects"
+}
